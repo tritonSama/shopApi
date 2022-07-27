@@ -1,4 +1,4 @@
-﻿namespace Customer_API
+﻿namespace CustomerAPI
 {
     public class Customer
     {
